@@ -14,8 +14,8 @@ Concentration is a single-player card matching game where players must find and 
 ## How to Play
 ### Start the Game:
 
-Run the game to start at the difficulty selection screen.
-Choose between:
+Run the game to start at the difficulty selection screen. \
+Choose between: \
     (1) Easy Mode: Match cards by value only. \
     (2) Hard Mode: Match cards by value and suit color (red/black). 
 
