@@ -48,7 +48,10 @@
 ### Ensure Java is installed on your system.
 ### Compile the game code using a Java IDE (e.g., Eclipse) or javac.
 ### Run the compiled code or the provided .jar file using:
-### To run the game, use the command `java -jar ConcentrationGame.jar`.
+```bash
+javac ConcentrationGame.java
+java -jar ConcentrationGame.jar
+```
 
 ## System Requirements:
 
