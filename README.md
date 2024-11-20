@@ -9,6 +9,11 @@ Each turn, the player flips two cards to find a match.
 If the cards match, they are removed from the board.
 The game ends when all pairs are matched.
 
+
+
+
+
+
 ## How to Play
 ### Start the Game:
 
