@@ -7,7 +7,7 @@ Concentration is a single-player card matching game where players must find and 
 The game starts with a grid of face-down cards. \
 Each turn, the player flips two cards to find a match. \
 If the cards match, they are removed from the board. \
-The game ends when all pairs are matched. \
+The game ends when all pairs are matched. 
 
 
 
@@ -17,7 +17,7 @@ The game ends when all pairs are matched. \
 Run the game to start at the difficulty selection screen.
 Choose between:
     Easy Mode: Match cards by value only. \
-    Hard Mode: Match cards by value and suit color (red/black). \
+    Hard Mode: Match cards by value and suit color (red/black). 
 
 ### Flip Cards:
 
