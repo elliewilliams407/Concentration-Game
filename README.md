@@ -47,12 +47,7 @@ A congratulatory message is displayed when you win.
 # How to Run the Game
 ### Compile and Run:
 
-Ensure Java is installed on your system. \
-Compile the game code using a Java IDE (e.g., Eclipse) or javac. \
-Run the compiled code or the provided .jar file using: 
-```bash
-java -jar ConcentrationGame.jar
-```
+Download the zipfile which contains two main files: code.java (with the source code) and main.java (with the Big Bang).
 
 ### System Requirements:
 Java Development Kit (JDK) version 8 or higher.
