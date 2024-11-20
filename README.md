@@ -49,7 +49,6 @@
 ### Compile the game code using a Java IDE (e.g., Eclipse) or javac.
 ### Run the compiled code or the provided .jar file using:
 ```bash
-javac ConcentrationGame.java
 java -jar ConcentrationGame.jar
 ```
 
