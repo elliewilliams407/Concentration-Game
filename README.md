@@ -49,7 +49,7 @@ A congratulatory message is displayed when you win.
 
 Ensure Java is installed on your system. \
 Compile the game code using a Java IDE (e.g., Eclipse) or javac. \
-Run the compiled code or the provided .jar file using: \
+Run the compiled code or the provided .jar file using: 
 ```bash
 java -jar ConcentrationGame.jar
 ```
