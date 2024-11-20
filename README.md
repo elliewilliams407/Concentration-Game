@@ -4,9 +4,9 @@
 Concentration is a single-player card matching game where players must find and match pairs of cards. This project implements the game using Java and the Big Bang library, providing an interactive graphical interface.
 
 ### Game Rules
-1. The game starts with a grid of face-down cards. \
-2. Each turn, the player flips two cards to find a match. \
-3. If the cards match, they are removed from the board. \
+1. The game starts with a grid of face-down cards. 
+2. Each turn, the player flips two cards to find a match. 
+3. If the cards match, they are removed from the board. 
 4. The game ends when all pairs are matched. 
 
 
